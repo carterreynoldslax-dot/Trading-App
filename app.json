@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Trading App",
+    "slug": "trading-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0b1020"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.carter.tradingapp"
+    },
+    "android": {
+      "package": "com.carter.tradingapp"
+    }
+  }
+}
